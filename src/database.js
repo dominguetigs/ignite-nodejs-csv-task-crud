@@ -31,8 +31,6 @@ export class Database {
       });
     }
 
-    console.log(data);
-
     return data;
   }
 
